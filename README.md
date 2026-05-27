@@ -1,4 +1,6 @@
-# Page 1 – Extracted Text
+#https://us06web.zoom.us/w/83460597042?tk=TgipyUnSKCA2kKxz5w8zU6C1T5eN4yzNeFFjhYscois.DQkAAAATbqOlMhZYUi1CRFVTYlFMdTNtR3dIZkprdU1nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_gjq75bKOTh6ltLJsqcLpzw
+
+Page 1 – Extracted Text
 Contact Center designs – file version, wall version, laptop version
 Amazon connect – Architecture – explanations
 AI/LM design doc – diagrams
